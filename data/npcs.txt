@@ -1,0 +1,77 @@
+Name	Standards	Favorite Effects	Role
+Austin Steiner	Low	Calorie-Dense, Euphoric, Munchies	Customer
+Beth Penn	Low	Schizophrenic, Lethal, Seizure-Inducing	Customer
+Chloe Bowers	Low	Euphoric, Shrinking, Munchies	Customer
+Donna Martin	Low	Refreshing, Lethal, Munchies	Customer
+Geraldine Poon	Very Low	Balding, Long Faced, Sedating	Customer
+Jessi Waters	Very Low	Energizing, Paranoia, Sneaky	Customer
+Kathy Henderson	Low	Athletic, Energizing, Focused	Customer
+Kyle Cooley	Low	Calming, Munchies, Smelly	Customer
+Ludwig Meyer	Low	Euphoric, Refreshing, Energizing	Customer
+Mick Lubbin	Low	Euphoric, Bright-Eyed, Sneaky	Customer
+Mrs. Ming	Low	Gingeritis, Shrinking, Electrifying	Customer
+Peggy Myers	Low	Bright-Eyed, Refreshing, Energizing	Customer
+Peter File	Low	Focused, Refreshing, Sneaky	Customer
+Sam Thompson	Low	Munchies, Athletic, Smelly	Customer
+Benji Coleman	-	-	Dealer
+Albert Hoover	-	-	Supplier
+
+Trent Sherman	Low	Athletic, Balding, Calorie-Dense	Customer
+Meg Cooley	Low	Sneaky, Slippery, Thought-Provoking	Customer
+Joyce Ball	Low	Euphoric, Thought-Provoking, Calorie-Dense	Customer
+Keith Wagner	Very Low	Slippery, Sneaky, Tropic Thunder	Customer
+Doris Lubbin	Low	Spicy, Tropic Thunder, Balding	Customer
+Jerry Montero	Low	Gingeritis, Smelly, Thought-Provoking	Customer
+Kim Delaney	Low	Shrinking, Jennerising, Focused	Customer
+Charles Rowland	Low	Sedating, Disorienting, Foggy	Customer
+Dean Webster	Low	Glowing, Laxative, Spicy	Customer
+George Greene	Low	Energizing, Focused, Thought-Provoking	Customer
+Molly Presley	-	-	Dealer
+Shirley Watts	-	-	Supplier
+
+Elizabeth Homley	Moderate	Sedating, Tropic Thunder, Toxic	Customer
+Jennifer Rivera	Moderate	Shrinking, Slippery, Toxic	Customer
+Lucy Pennington	Moderate	Calorie-Dense, Euphoric, Glowing	Customer
+Philip Wentworth	Moderate	Refreshing, Shrinking, Foggy	Customer
+Kevin Oakley	Moderate	-	Customer
+Randy Caulfield	Moderate	-	Customer
+Louis Fourier	Moderate	Shrinking, Seizure-Inducing, Paranoia	Customer
+Eugene Buckley	Moderate	Schizophrenic, Toxic, Calming	Customer
+Jeff Gilmore	Moderate	Sedating, Long Faced, Laxative	Customer
+Greg Figgle	Very Low	Euphoric, Tropic Thunder, Toxic	Customer
+Brad Crosby	-	-	Dealer
+
+Anna Chesterfield	Moderate	Refreshing, Thought-Provoking, Euphoric	Customer
+Cranky Frank	Moderate	Laxative, Toxic, Tropic Thunder	Customer
+Genghis Barn	Very Low	Electrifying, Gingeritis, Athletic	Customer
+Javier Perez	Moderate	-	Customer
+Lisa Gardener	Moderate	Laxative, Schizophrenic, Anti-Gravity	Customer
+Melissa Wood	Moderate	Anti-Gravity, Refreshing, Slippery	Customer
+Marco Barone	Moderate	Sneaky, Long Faced, Refreshing	Customer
+Billy Kramer	Moderate	Spicy, Schizophrenic, Long Faced	Customer
+Mac Cooper	Moderate	Focused, Spicy, Long Faced	Customer
+Jane Lucero	-	-	Dealer
+Salvador Moreno	-	-	Supplier
+
+Chris Sullivan	High	Sneaky, Euphoric, Electrifying	Customer
+Alison Knight	High	-	Customer
+Karen Kennedy	High	-	Customer
+Carl Bundy	High	Glowing, Athletic, Disorienting	Customer
+Jeremy Wilkinson	High	Balding, Slippery, Calorie-Dense	Customer
+Hank Stevenson	High	Sneaky, Toxic, Schizophrenic	Customer
+Jack Knight	High	Shrinking, Thought-Provoking. Lethal	Customer
+Harold Colt	High	Foggy, Spicy, Jennerising	Customer
+Jackie Stevenson	High	-	Customer
+Dennis Kennedy	High	Athletic, Focused, Bright-Eyed	Customer
+Wei Long	-	-	Dealer
+
+Lily Turner	High	-	Customer
+Fiona Hancock	High	Lethal, Thought-Provoking, Tropic Thunder	Customer
+Walter Cussler	High	Schizophrenic, Calming, Balding	Customer
+Jen Heard	High	Disorienting, Energizing, Sneaky	Customer
+Ray Hoffman	High	-	Customer
+Pearl Moore	High	Schizophrenic, Gingeritis, Explosive	Customer
+Herbert Bleuball	High	Slippery, Foggy, Explosive	Customer
+Tobas Wentworth	High	Lethal, Disorienting, Spicy	Customer
+Michael Boog	High	Jennerising, Calming, Schizophrenic	Customer
+Leo Rivers	-	-	Dealer
