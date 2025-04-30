@@ -59,7 +59,7 @@ Karen Kennedy	High	-	Customer
 Carl Bundy	High	Glowing, Athletic, Disorienting	Customer
 Jeremy Wilkinson	High	Balding, Slippery, Calorie-Dense	Customer
 Hank Stevenson	High	Sneaky, Toxic, Schizophrenic	Customer
-Jack Knight	High	Shrinking, Thought-Provoking. Lethal	Customer
+Jack Knight	High	Shrinking, Thought-Provoking, Lethal	Customer
 Harold Colt	High	Foggy, Spicy, Jennerising	Customer
 Jackie Stevenson	High	-	Customer
 Dennis Kennedy	High	Athletic, Focused, Bright-Eyed	Customer
