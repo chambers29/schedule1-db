@@ -14,3 +14,5 @@ This database is designed using relational tables to represent key aspects of th
 - `insert/` – SQL scripts with `INSERT INTO` statements that populate the database with values.
 - `scripts/` – Python scripts that automate table population.
 - `data/` – Text files with raw data (copied from the game wiki: [Schedule-1 Wiki](https://schedule-1.fandom.com/)), used by the scripts.
+
+## Query and table examples
