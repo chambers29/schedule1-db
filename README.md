@@ -5,7 +5,7 @@ A homemade database project built for learning, practice, and fun. It contains d
 This database is designed using relational tables to represent key aspects of the game. It can be useful during gameplay, for example to check:
 - the area of a specific NPC,
 - their favorite effect,
-- and which ingredient gives that effect.
+- and which ingredient provides that effect.
 
 ## Repository structure
 
