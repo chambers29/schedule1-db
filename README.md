@@ -28,7 +28,8 @@ JOIN effects eff ON e.effect_id = eff.effect_id
 JOIN ingredients i ON i.effect_id = e.effect_id
 ORDER BY n.npc_id
 LIMIT 10 OFFSET 10
-
+```
+!(examples\example_npc_effect_ingredient.png)
 This sample output demonstrates how the database can save time during gameplay by helping the player quickly identify which ingredients produce the effects preferred by specific NPCs.
 
 In the game, you only see which effects an NPC likes — but you still have to remember or manually check which ingredients provide those effects.
