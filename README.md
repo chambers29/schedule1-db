@@ -2,7 +2,7 @@
 
 A homemade relational database project built for learning, practice, and fun. It contains data related to NPCs and related entities from the game *Schedule 1*.
 
-This database is designed using relational tables to represent key aspects of the game. It can be useful during gameplay — for example, to check:
+This database is designed using relational tables to represent key aspects of the game. It can be useful during gameplay, for example to check:
 - the area of a specific NPC,
 - their favorite effect,
 - and which ingredient gives that effect.
