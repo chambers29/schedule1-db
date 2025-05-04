@@ -3,7 +3,7 @@ VALUES
 	(1,'Motel',1,1),
 	(2,'Dan''s Hardware',3,1),
 	(3,'Skateshop',3,1),
-	(4,'Taco Ticklers',3,1),
+	(4,'Taco Ticklers',2,1),
 	(5,'Handy Hank''s Hardware',3,6),
 	(6,'Ray''s Realty',3,6),
 	(7,'Decor',3,6),
