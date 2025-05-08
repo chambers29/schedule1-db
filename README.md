@@ -35,3 +35,21 @@ This sample output demonstrates how the database can save time during gameplay b
 
 In the game, you only see which effects an NPC likes — but you still have to remember or manually check which ingredients provide those effects.
 This query makes that process much faster and more convenient.
+
+## Visualizations
+### Power BI visualization of customer distribution across areas, with colors indicating customer standards.
+![](https://github.com/chambers29/schedule1-db/blob/main/visualizations/area_standards/area_standards.png)
+
+Query used for this visualization:
+```sql
+SELECT
+	n.area_id
+	,a.name
+	,COUNT(a.name)
+	,n.standards
+FROM npcs n
+JOIN areas a ON a.area_id = n.area_id
+WHERE standards != '-'
+GROUP BY n.area_id, a.name, n.standards
+ORDER BY n.area_id
+```
