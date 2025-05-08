@@ -3,7 +3,8 @@ CREATE TABLE "npcs" (
   "name" varchar(50),
   "area_id" int,
   "is_customer" bool,
-  "role_id" int
+  "role_id" int,
+  "standards" varchar(50)
 );
 
 CREATE TABLE "roles" (
